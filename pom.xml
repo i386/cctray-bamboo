@@ -7,12 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.atlassian.mike</groupId>
     <artifactId>cctray</artifactId>
-    <version>1.0-SNAPSHOT</version>
-
-    <organization>
-        <name>Example Company</name>
-        <url>http://www.example.com/</url>
-    </organization>
+    <version>1.0</version>
 
     <name>cctray</name>
     <description>This is the com.atlassian.mike:cctray plugin for Atlassian Bamboo.</description>
@@ -93,7 +88,7 @@
     </build>
 
     <properties>
-        <bamboo.version>2.3.1</bamboo.version>
+        <bamboo.version>2.6</bamboo.version>
         <bamboo.data.version>2.2</bamboo.data.version>
     </properties>
 
